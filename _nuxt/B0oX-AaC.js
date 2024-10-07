@@ -1,0 +1,1 @@
+import{f as s,g as n,bb as o,q as _}from"./cBpJiMAW.js";const c=s({__name:"index",async setup(i){let t,e;const a=n();return[t,e]=o(()=>_(a("/settings/s3"))),await t,e(),()=>{}}});export{c as default};
